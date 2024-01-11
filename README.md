@@ -1,5 +1,5 @@
 
-![Uploading 1.png…]()
+![1](https://github.com/atthabrizi/atthabrizi/assets/143374083/d3b272ef-757b-4a4e-ae76-72325b5e021d)
 
 ## 🚀 Hi, I am Abbe Atthabrizi
 
