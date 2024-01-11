@@ -12,7 +12,7 @@ I am an aspiring Data Scientist with a passion about Business, Investment, and M
 
 
 ## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,mysql,vscode)](https://skillicons.dev)
 
 - Python
 - MySQL
