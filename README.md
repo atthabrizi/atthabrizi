@@ -19,5 +19,4 @@ I am a aspiring Data Scientist with a passion about Business, Investment, and Ma
 - scikit-learn
 
 ## 📈 Stats
-![GitHub Streak](link-to-your-github-streak)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
