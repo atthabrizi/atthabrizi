@@ -15,10 +15,10 @@ I am an aspiring Data Scientist with a passion about Business, Investment, and M
 
 - Python
 - MySQL
+- scikit-learn
 - Matplotlib
 - Pandas
 - NumPy
-- scikit-learn
 
 ## 📈 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atthabrizi&theme=dark&show_icons=true)
