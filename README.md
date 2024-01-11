@@ -2,7 +2,7 @@
 
 ## 🚀 Hi, I am Abbe Atthabrizi
 
-I am a aspiring Data Scientist with a passion about Business, Investment, and Machine Learning. A firm believer in using insights and communications to build a solid decision making, both in analytics and in team building. My goals are to leverage my skills in leadership and Data Science to drive innovation and create a positive and communal impacts.
+I am an aspiring Data Scientist with a passion about Business, Investment, and Machine Learning. A firm believer in using insights and communications to build a solid decision making, both in analytics and in team building. My goals are to leverage my skills in leadership and Data Science to drive innovation and create a positive and communal impacts.
 
 
 - 🤖 Currently learning about Machine Learning 
@@ -11,6 +11,8 @@ I am a aspiring Data Scientist with a passion about Business, Investment, and Ma
 
 
 ## 🛠️ Skills
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,mysql)](https://skillicons.dev)
+
 - Python
 - MySQL
 - Matplotlib
@@ -19,4 +21,4 @@ I am a aspiring Data Scientist with a passion about Business, Investment, and Ma
 - scikit-learn
 
 ## 📈 Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=atthabrizi)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=atthabrizi&theme=dark&show_icons=true)
