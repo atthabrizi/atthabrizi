@@ -16,6 +16,7 @@ I am an aspiring Data Scientist with a passion about Business, Investment, and M
 
 - Python
 - MySQL
+- Tableau
 - scikit-learn
 - Matplotlib
 - Pandas
@@ -25,7 +26,8 @@ I am an aspiring Data Scientist with a passion about Business, Investment, and M
 ## 🌠 Personal Projects
 - [Widely Integrated Cashier and Inventory System (WICIS)](https://github.com/atthabrizi/WICIS-CRUD-System) 
 - [New York City TLC Trip Data Analysis](https://github.com/atthabrizi/nyc-tlc-trip-analysis) 
-- [Bike Sharing Prediction Model (Machine Learning)](https://github.com/atthabrizi/bike-demand-prediction-model) 
+- [Bike Sharing Prediction Model (Machine Learning)](https://github.com/atthabrizi/bike-demand-prediction-model)
+- [Tableau Portfolio](https://public.tableau.com/app/profile/abbe.atthabrizi/vizzes)
 - [SQL Portfolio](https://github.com/atthabrizi/sql)
 
 ## 📈 Stats
